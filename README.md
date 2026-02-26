@@ -1,4 +1,14 @@
 # Ecommerce_sales_analysis
+## 📂 Dataset
+
+The dataset used in this project can be accessed here:
+
+👉 Download Dataset : ## 📂 Dataset
+
+The dataset used in this project can be accessed here:
+
+👉 [Download Dataset](https://drive.google.com/file/d/1PHu-VhmmhJStaX9LugYYjKem2ViE0RH6/view?usp=drive_link)
+
 # 🛒 E-commerce Sales Analysis using Python & MySQL
 
 Welcome to this project 👋
